@@ -1,0 +1,15 @@
+node_modules/
+.sites-runtime/
+*.tar.gz
+*.zip
+*.log
+qa/
+/dist/
+/.next/
+/.vinext/
+/.wrangler/
+/.env*
+!/.env.example
+/.dev.vars*
+/next-env.d.ts
+*.tsbuildinfo
